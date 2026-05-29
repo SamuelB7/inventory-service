@@ -1,13 +1,12 @@
 # inventory-service
 
-Boilerplate NestJS com `@nestjs/microservices` e Kafka. Sem regra de negocio nesta fase.
+NestJS boilerplate with `@nestjs/microservices` and Kafka. This phase does not implement business rules for this service yet.
 
 ## Endpoints
 
 - `GET /health`
 - `POST /events/demo`
 
-## Topico demo
+## Demo Topic
 
 - `inventory.demo.event.v1`
-
